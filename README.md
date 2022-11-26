@@ -1,6 +1,6 @@
 # EasyML
 
-EasyML is a web-based platform that makes it easier for people to use complex machine learning programs.
+EasyML is a web-based platform that makes it easier for people to use complex machine learning programs. My final project for Harvard's CS50 (Fall 2021)
 
 ### Project Manual
 
