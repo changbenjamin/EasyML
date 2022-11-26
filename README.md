@@ -1,8 +1,8 @@
-### EasyML
+# EasyML
 
 EasyML is a web-based platform that makes it easier for people to use complex machine learning programs.
 
-## Project Manual
+### Project Manual
 
 As a website built in the CS50 IDE, the code should be compiled there and the server should be created in VS Code. To run the machine learning algorithms, run the attached .ipynb files (titled "petclassifier.ipynb" and "proteinclass.ipynb") on a notebook before using the website. You can also run it on my Deepnote notebook here: https://deepnote.com/project/EasyML-0IwyrG_BREGxLcx3wtQ0dA/%2Fproteinclass.ipynb. The Protein Classifier takes about 15 minutes to run at first, but once it has finished, the web application should run almost instantaneously.
 
@@ -16,11 +16,11 @@ The third block gives my email to users to receive feedback or questions about t
 
 The homepage is hyperlinked on all of the pages in the header and in text at the bottom of the pages. The HTML code for the website was based on HTML code provided by nicepage.com. Also, all of the machine learning code is hyperlinked to the original programmers' Kaggle pages, so that you can check out their algorithms.
 
-## URL to Overview Video
+### URL to Overview Video
 
 www.youtube.com/watch?v=h0ewaP9G2Zo
 
-## FAQ
+### FAQ
 
 Q: What if the web app says "This app has experienced an error"?
 A: It is likely that the notebook with the ML algorithms is not running, which means that the uplink server is disconnected. Run the Deepnote code first so that it can be connected to the web app.
