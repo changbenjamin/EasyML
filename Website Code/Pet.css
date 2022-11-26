@@ -1,0 +1,130 @@
+/* CSS from from nicepages.com */
+.u-section-1 .u-sheet-1 {
+  min-height: 824px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 798px;
+  font-size: 3rem;
+  margin: 37px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  width: 711px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 868px;
+  margin: 50px auto 0;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-gap: 0px;
+}
+
+.u-section-1 .u-text-3 {
+  text-align: center;
+  width: 656px;
+  margin: 432px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-align: center;
+  width: 656px;
+  margin: -1px auto 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 16px auto 18px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(undefined, NaN%);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.75rem;
+    width: 720px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(1, 100%);
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 32px;
+    margin-right: 32px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 32px;
+    margin-right: 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 340px;
+  }
+}
